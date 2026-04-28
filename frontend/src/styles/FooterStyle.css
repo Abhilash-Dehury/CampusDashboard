@@ -1,0 +1,90 @@
+/* ── FooterStyle.css ── Used by About, Contact, Jobs, PressKit pages ── */
+
+/* Full-page wrapper with gradient background matching project theme */
+.page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  padding: 40px 20px;
+}
+
+/* Glass card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 50px 60px;
+  max-width: 720px;
+  width: 100%;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  color: #e2e8f0;
+}
+
+/* Page title */
+.title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #f8fafc;
+  margin-bottom: 24px;
+  border-left: 4px solid #ec4899;
+  padding-left: 16px;
+  line-height: 1.2;
+}
+
+/* Body text */
+.subtitle {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #94a3b8;
+  margin-bottom: 14px;
+}
+
+/* Lists inside cards */
+.glass-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.glass-card ul li {
+  font-size: 1rem;
+  color: #cbd5e1;
+  padding: 6px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  line-height: 1.8;
+}
+
+.glass-card ul li:last-child {
+  border-bottom: none;
+}
+
+/* Back link */
+.back-link {
+  display: inline-block;
+  margin-top: 30px;
+  color: #ec4899;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.2s;
+}
+
+.back-link:hover {
+  color: #f9a8d4;
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .glass-card {
+    padding: 30px 24px;
+  }
+
+  .title {
+    font-size: 1.8rem;
+  }
+}

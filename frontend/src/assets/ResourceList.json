@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Aptitude",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.JtScJs6qCkMV33sZiwiwQQHaE7?pid=Api&P=0&h=180",
+    "title": "Learn aptitude from basic to pro with us.",
+    "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+  },
+  {
+    "id": 2,
+    "name": "Reasoning",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.B5B3oF8WZOQJ6s6N6HuOQQHaE8?pid=Api&P=0&h=180",
+    "title": "Prepare reasoning and crack any placement test.",
+    "url": "https://www.geeksforgeeks.org/aptitude/logical-reasoning/"
+  },
+  {
+    "id": 3,
+    "name": "Communication English",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.t8D95li6nDQmIvw9sgWnNAHaEK?pid=Api&P=0&h=180",
+    "title": "Build a strong foundation in English.",
+    "url": "https://www.indiabix.com/verbal-ability/questions-and-answers/"
+  },
+  {
+    "id": 4,
+    "name": "Programming",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2PV99eYqHuspw4x27SGtAAHaEK?pid=Api&P=0&h=180",
+    "title": "Learn C, C++ and become a coding pro.",
+    "url": "https://www.indiabix.com/c-programming/questions-and-answers/"
+  },
+  {
+    "id": 5,
+    "name": "Interview Prep",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.iHeETjA2H7hTwP8zUMulEAHaF2?pid=Api&P=0&h=180",
+    "title": "Enhance your interview skills with us.",
+    "url": "https://www.geeksforgeeks.org/interview-preparation/"
+  },
+  {
+    "id": 6,
+    "name": "CS Subjects",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.uu_2WOK0i3fEYUG3gAcqfAHaFS?pid=Api&P=0&h=180",
+    "title": "DBMS, OS, Networks — prepare all CS subjects.",
+    "url": "https://www.geeksforgeeks.org/computer-science-subjects/"
+  },
+  {
+    "id": 7,
+    "name": "DSA",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2PV99eYqHuspw4x27SGtAAHaEK?pid=Api&P=0&h=180",
+    "title": "Data structures and algorithms from scratch.",
+    "url": "https://www.geeksforgeeks.org/data-structures/"
+  },
+  {
+    "id": 8,
+    "name": "TCS NQT",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2PV99eYqHuspw4x27SGtAAHaEK?pid=Api&P=0&h=180",
+    "title": "Dedicated prep for TCS National Qualifier Test.",
+    "url": "https://www.indiabix.com/placement-papers/tcs/"
+  },
+  {
+    "id": 9,
+    "name": "Infosys",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2PV99eYqHuspw4x27SGtAAHaEK?pid=Api&P=0&h=180",
+    "title": "Prepare for Infosys hiring process end to end.",
+    "url": "https://www.indiabix.com/placement-papers/infosys/"
+  },
+  {
+    "id": 10,
+    "name": "Wipro",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2PV99eYqHuspw4x27SGtAAHaEK?pid=Api&P=0&h=180",
+    "title": "Wipro NLTH preparation and mock tests.",
+    "url": "https://www.indiabix.com/placement-papers/wipro/"
+  }
+]
