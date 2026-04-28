@@ -59,22 +59,7 @@ export default function ExamPage() {
   };
 
   // 3. Submit Logic
-  // const handleSubmit = async () => {
-  //   if (submitted) return;
-  //   let sc = 0;
-  //   questions.forEach((q, i) => { if (isCorrect(q, answers[i])) sc++; });
-  //   setScore(sc);
-  //   setSubmitted(true);
-  //   window.scrollTo({ top: 0, behavior: 'smooth' });
 
-  //   try {
-  //     await fetch(`${API_BASE}/update-points`, {
-  //       method: "POST",
-  //       headers: { "Content-Type": "application/json" },
-  //       body: JSON.stringify({ username: cookies.username, points: sc }),
-  //     });
-  //   } catch (err) { console.error(err); }
-  // };
 
   const handleSubmit = async () => {
   if (submitted) return;
